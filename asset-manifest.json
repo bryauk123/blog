@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-anime-blog/static/css/main.5fd508c6.chunk.css",
+    "main.js": "/my-anime-blog/static/js/main.d66caedb.chunk.js",
+    "main.js.map": "/my-anime-blog/static/js/main.d66caedb.chunk.js.map",
+    "runtime-main.js": "/my-anime-blog/static/js/runtime-main.bc463008.js",
+    "runtime-main.js.map": "/my-anime-blog/static/js/runtime-main.bc463008.js.map",
+    "static/js/2.892ecd7d.chunk.js": "/my-anime-blog/static/js/2.892ecd7d.chunk.js",
+    "static/js/2.892ecd7d.chunk.js.map": "/my-anime-blog/static/js/2.892ecd7d.chunk.js.map",
+    "index.html": "/my-anime-blog/index.html",
+    "static/css/main.5fd508c6.chunk.css.map": "/my-anime-blog/static/css/main.5fd508c6.chunk.css.map",
+    "static/js/2.892ecd7d.chunk.js.LICENSE.txt": "/my-anime-blog/static/js/2.892ecd7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc463008.js",
+    "static/js/2.892ecd7d.chunk.js",
+    "static/css/main.5fd508c6.chunk.css",
+    "static/js/main.d66caedb.chunk.js"
+  ]
+}
